@@ -1,6 +1,4 @@
-Juan Carlos: Hola, soy [Nombre].
-Meghan: Y yo soy [Nombre].
-Santiago: Y yo soy [Nombre]. Juntos queremos contarte sobre el fentanilo.
+Buenos dias, somos el equipo 1, conformado por (Juan Carlos, Meghan, Santiago, Danna y rodrigo)
 
 ¿Qué es el fentanilo?
 
